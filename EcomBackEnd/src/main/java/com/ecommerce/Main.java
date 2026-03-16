@@ -31,6 +31,7 @@ public class Main {
         // Demonstrate Category Creation
         demonstrateCategoryManagement();
 
+
         // Demonstrate Address Creation
         demonstrateAddressManagement();
 
